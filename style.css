@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    flex-direction: column;
+} 
+
+.header{
+    display: flex;
+    
+}
+
+img{
+    max-width: 300px;
+}
+.header-bar{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul{
+    
+}
+
+.header-pane{
+    display: flex;
+}
+
+.information{
+    display: flex;
+}
+
+.card{
+    display: flex;
+}
+
+.quote{
+
+}
+
+.cta{
+    display: flex;
+}
+
+.banner{
+    display: flex;
+}
+
+.footer{
+
+}
